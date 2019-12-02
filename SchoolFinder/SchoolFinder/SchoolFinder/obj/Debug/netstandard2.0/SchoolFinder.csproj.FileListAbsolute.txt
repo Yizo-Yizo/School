@@ -1,0 +1,15 @@
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.csprojAssemblyReference.cache
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.AssemblyInfoInputs.cache
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.AssemblyInfo.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\bin\Debug\netstandard2.0\SchoolFinder.deps.json
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\bin\Debug\netstandard2.0\SchoolFinder.dll
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\bin\Debug\netstandard2.0\ref\SchoolFinder.dll
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\bin\Debug\netstandard2.0\SchoolFinder.pdb
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.dll
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\ref\SchoolFinder.dll
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.pdb
