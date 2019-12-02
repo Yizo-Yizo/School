@@ -24,5 +24,10 @@ namespace SchoolFinder
             Navigation.InsertPageBefore(new LoginPage(), this);
             await Navigation.PopAsync();
         }
+
+        private async void Appy_Here(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ApplicationPage());
+        }
     }
 }

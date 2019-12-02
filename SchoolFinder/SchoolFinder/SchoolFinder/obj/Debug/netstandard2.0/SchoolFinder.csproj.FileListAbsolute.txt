@@ -13,3 +13,5 @@ C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.dll
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\ref\SchoolFinder.dll
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\SchoolFinder.pdb
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\ApplicationPage.xaml.g.cs
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder\obj\Debug\netstandard2.0\ApplicationFormPage.xaml.g.cs

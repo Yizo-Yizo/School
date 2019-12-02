@@ -6,11 +6,15 @@
              mc:Ignorable="d"
              x:Class="SchoolFinder.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Logout" Clicked="OnLogoutButtonClicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="About the school" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+
+            <Button x:Name="Apply_Here" Clicked="Appy_Here" Text="Apply Here"/>
+        </StackLayout>
+    </ContentPage.Content>
 
 </ContentPage>
