@@ -16,5 +16,17 @@ namespace SchoolFinder
         {
             InitializeComponent();
         }
+
+        async void OnSaveClicked(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+
+        }
+
+        async void OnCancelClicked(object sender, EventArgs e)
+        {
+            await Navigation.PopAsync();
+
+        }
     }
 }

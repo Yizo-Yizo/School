@@ -11,23 +11,11 @@ namespace SchoolFinder
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
-    public partial class MainPage : ContentPage
+    public partial class MainPage : TabbedPage
     {
         public MainPage()
         {
             InitializeComponent();
-        }
-
-        async void OnLogoutButtonClicked(object sender, EventArgs e)
-        {
-            App.IsUserLoggedIn = false;
-            Navigation.InsertPageBefore(new LoginPage(), this);
-            await Navigation.PopAsync();
-        }
-
-        private async void Appy_Here(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new ApplicationPage());
         }
     }
 }

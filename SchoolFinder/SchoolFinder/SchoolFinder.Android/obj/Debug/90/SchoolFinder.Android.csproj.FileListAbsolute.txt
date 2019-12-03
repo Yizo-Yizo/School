@@ -494,3 +494,7 @@ C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\st
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\res\drawable\appliationstatus.png
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\res\drawable\about.png
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\res\drawable\about2.jpg
+C:\Xamarin\School\SchoolFinder\SchoolFinder\SchoolFinder.Android\obj\Debug\90\res\drawable\contact.png

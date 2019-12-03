@@ -8,6 +8,10 @@
     <ContentPage.Content>
         <StackLayout>
             <!-- Place new controls here -->
+            <ScrollView VerticalOptions="FillAndExpand" Margin="10">
+                        <StackLayout>
+       
+                    
             <Label
               FontSize="15"
               FontAttributes="Bold"
@@ -45,7 +49,8 @@
 
             <Button Text="Cancel" Clicked="OnCancelClicked"  BackgroundColor="Black" TextColor="White" BorderColor="White" BorderWidth="15" />
 
-
+        </StackLayout>
+        </ScrollView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
